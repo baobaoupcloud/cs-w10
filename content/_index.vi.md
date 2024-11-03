@@ -1,20 +1,19 @@
 ---
-title : "CS50 Tuần 5"
+title : "CS50 Tuần 10"
 date :  "`r Sys.Date()`" 
 weight : 1 
 chapter : false
 ---
-# CS50 Tuần 5 - Cấu trúc dữ liệu
+# CS50 Tuần 10 - An ninh mạng
 
 ### Tổng quan
-Chào mừng đến với tuần thứ 5. Ở tuần này, chúng ta sẽ bàn về cách sắp xếp dữ liệu trong bộ nhớ.
+Chào mừng đến với tuần thứ 10. Ở tuần này, chúng ta sẽ đi qua tổng quan về an ninh mạng với các chủ đề sau.
 
 
 ### Mục lục
- 1. [Cấu trúc dữ liệu](1-Data-structures)
- 2. [Hàng đợi và Ngăn xếp](2-Stacks-and-Queues)
- 3. [Thay đổi kích thước mảng](3-Resizing-arrays)
- 4. [Danh sách liên kết](4-Linked-lists)
- 5. [Cây](5-Trees)
- 6. [Từ điển](6-Dictionaries)
- 7. [Cây tiền tố](7-Tries)
+ 1. [Tổng quan](1-Overview/)
+ 2. [Bảo mật mật khẩu](2-Password-security/)
+ 3. [Xác thực hai yếu tố](3-Two-factor-authentication/)
+ 4. [Băm và Mã hóa](4-Hashing-and-Encryption)
+ 5. [Mã khóa (Passkeys)](5-Passkeys)
+ 6. [Xóa An toàn và Mã hóa toàn bộ ổ đĩa](6-Secure-deletion-encryption)
